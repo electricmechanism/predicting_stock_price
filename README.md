@@ -1,4 +1,4 @@
-# predicting_stock_price
+# Predicting APPLE stock price 1 day ahead using neural networks
 Predicting APPLE stock price 1 day ahead using neural networks.
 Predicting the price of APPLE shares 1 day ahead using neural networks.
 Developing a model for predicting the price of shares and other assets using neural networks and the Python language.
